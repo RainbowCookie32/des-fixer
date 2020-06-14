@@ -1,0 +1,11 @@
+[package]
+name = "des_fixer"
+version = "0.1.0"
+authors = ["rainbowcookie32 <matimoran03@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4.8"
+simplelog = "0.8.0"
